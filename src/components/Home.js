@@ -4,16 +4,17 @@ import {Button,Container, Row,Col} from 'react-bootstrap';
 import Leftbar from './child/Leftbar';
 import Rightbar from './child/Rightbar'
 import Centerbar from './child/Centerbar'
+import "./assest/Home.css"
 
 const Home = () => {
   return (
     <div>
-        <Container fluid>
+        <Container fluid className='ho'>
         <Row>
             <Col className='lef col-3'>
                 <Leftbar />    
             </Col>
-            <Col className='cen col-5'>
+            <Col className='cen col-6'>
                 <Centerbar />    
             </Col>
             <Col className='rig col-3'>
