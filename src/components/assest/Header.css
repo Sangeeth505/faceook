@@ -1,0 +1,55 @@
+.log_im{
+    width: 100px;
+    
+}
+.top{
+    margin-top: -10px;
+    box-shadow: 3px -20px 20px 10px #888888;
+}
+.fir{
+    padding-left: 20px;
+}
+.sec{
+    margin-left: 50px;
+    
+
+} 
+#ica{
+    float: right;
+    font-size: 40px;
+    border: 0.3px #cecccc;
+    background: #cecccc;
+    border-radius: 29px;
+    padding: 11px;
+    margin-top: 5px;
+   
+} 
+#icb{
+    float: right;
+    font-size: 40px;
+    border: 0.3px #cecccc;
+    background: #cecccc;
+    border-radius: 29px;
+    padding: 11px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 5px;
+} 
+#pic{
+    float: right;
+    border-radius: 50px;
+    width: 40px;
+    margin-top: 5px;
+} 
+.ser{
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    border: none;
+    background-color: #e9ecef;
+
+}
+#btnGroupAddon2{
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border: none;
+}

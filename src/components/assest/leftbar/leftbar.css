@@ -1,0 +1,44 @@
+.lb{
+    border-radius: 50px;
+    width: 20px;
+    margin-right: 10px;
+    
+}
+#la{
+    width: 23px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    height: 28px;
+}
+#lc{
+    width: 23px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    height: 28px;
+}
+#ld{
+    width: 23px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    height: 28px;
+}
+#le{
+    width: 23px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    height: 28px;
+}
+#lf{
+    width: 30px;
+    margin-right: 10px;
+    height: 28px;
+    background-color: rgb(235, 189, 211);
+    border-radius: 34px;
+    margin-left: -5px;
+}
+.word{
+    font-weight: 500;
+}
+.mrg{
+    padding-bottom: 10px;
+}
