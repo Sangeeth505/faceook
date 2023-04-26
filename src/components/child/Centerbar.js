@@ -77,7 +77,7 @@ const Centerbar = () => {
               <Form.Control
                 className='csr'
                 type="text"
-                placeholder="Search Facebook"
+                placeholder="What's on your mind, Ankit?"
                 aria-label="Input group example"
                 aria-describedby="btnGroupAddon2"/>
             </Col>
@@ -118,7 +118,7 @@ const Centerbar = () => {
           <Row>
           <span>
             <img id='fo' alt="..." src={require("../image/main1.jpg")} />
-          Dharmanshu Johar</span><BiDotsHorizontalRounded /><AiOutlineClose />
+            Dharmanshu Johar<p className='fa'></p>15hr</span><BiDotsHorizontalRounded /><AiOutlineClose />
           </Row>
 
         </Container>
