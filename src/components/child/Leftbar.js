@@ -1,11 +1,11 @@
 import React from 'react'
-import { Container, Row,Col,ColProps } from 'react-bootstrap'
+// import { Container, Row,Col, } from 'react-bootstrap'
 import { useState, useEffect } from 'react';
 import { AiFillHome } from "react-icons/ai";
 import { BsFillDisplayFill } from "react-icons/bs";
 import { CgMenuGridR } from "react-icons/cg";
 import { MdGroups2} from "react-icons/md";
-import { TbCircleLetterA } from "react-icons/tb";
+import { TbLetterA } from "react-icons/tb";
 import "../assest/leftbar/leftbar.css"
 
 
@@ -84,7 +84,7 @@ const Leftbar = () => {
       <hr />
       <div className='mrg'>
         <span className='word'>
-          <TbCircleLetterA className='text-danger' id='lf'/>
+          <TbLetterA  id='lf'/>
           Ankit Rai Gautam
         </span>
         

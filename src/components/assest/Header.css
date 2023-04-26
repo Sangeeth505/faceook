@@ -63,3 +63,13 @@
     border-bottom-left-radius: 22px;
     border: none;
 }
+#icd{
+    float: right;
+    font-size: 14px;
+    background: #d32323;
+    border-radius: 20px;
+    color: whitesmoke;
+    margin-right: -57px;
+    margin-top: 3px;
+    height: 12px;
+}

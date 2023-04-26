@@ -3,7 +3,8 @@ import { useState, useEffect } from 'react';
 import { BsSearch } from "react-icons/bs";
 import { BsMessenger} from "react-icons/bs";
 import{ FaBell } from "react-icons/fa";
-import { IoIosArrowDown } from "react-icons/io"
+import { IoIosArrowDown } from "react-icons/io";
+import { TbNumber1 } from "react-icons/tb"
 import { Navbar,Container,Row,Col,Form,InputGroup } from 'react-bootstrap';
 import "./assest/Header.css"
 
@@ -55,6 +56,7 @@ const Header = () => {
                     <img id='pic' src={data} alt="Ankit"/>
                     <IoIosArrowDown id='icc' />
                     <FaBell id='icb' />
+                    <TbNumber1 id='icd' />
                     <BsMessenger id='ica' />
                     
                     {/* {data} */}
