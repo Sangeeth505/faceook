@@ -1,0 +1,156 @@
+.ca{
+    border: 1px solid rgba(237, 234, 234, 0.866);
+    background-color: white;
+    border-radius: 7px;
+    width: 93%;
+
+}
+.cb{
+    border: 1px solid rgba(237, 234, 234, 0.866);
+    background-color: white;
+    border-radius: 7px;
+    width: 93%;
+    margin-top: 13px;
+    padding-top: 7px;
+
+}
+.cc{
+    border: 1px solid rgba(237, 234, 234, 0.866);
+    background-color: white;
+    border-radius: 7px;
+    width: 93%;
+    margin-top: 13px;
+    padding-top: 7px;
+}
+.cdn{
+
+}
+.mr{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 15px;
+    font-weight: 600;
+}
+.cll{
+    margin-bottom: 13px;
+}
+#fo{
+    width: 39px;
+    border-radius: 42px;
+    height: 38px;
+    margin-top: 4px;
+
+}
+.csr{
+    border: none;
+    background-color: #e9ecef;
+    border-radius: 46px;
+    width: 406px;
+    margin-right: -263px;
+    margin-top: 5px;
+}
+
+.caia{
+
+}
+#cia{
+    color: blue;
+    font-size: 10px;
+}
+.ciia{
+    color: blue;
+
+}
+.cwds{
+    color: blue;
+
+}
+.cwd{
+
+}
+
+#cpa{
+    width: 95%;
+    height: 150px;
+    border-radius: 7px;
+
+}
+#cpb{
+    width: 100%;
+    border-radius: 7px;
+    height: 193px;
+}
+#dic{
+    background-color: #3840e2;
+    color: white;
+    border-radius: 31px;
+    border: 2px solid white;
+    width: 29px;
+    height: 28px;
+    margin-left: -72px;
+    margin-top: 154px;
+}
+#cca{
+    margin-top: -15px;
+    
+
+}
+#paaa{
+    font-size: 12px;
+    text-align: center;
+    font-weight: 700;
+
+}
+#paab{
+    margin-top: -40px;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+#paac{
+    margin-top: -30px;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+#qa{
+    margin-right: -52px;
+    margin-left: 45px;
+}
+#qb{
+    margin-right: -30px;
+    margin-left: 15px;
+}
+#qc{    
+    
+}
+#cps{
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+    color: grey;
+    
+
+}
+#cpss{
+    width: 23px;
+    height: 26px;
+    margin-right: 0px;
+    color: red;
+}
+#cpssa{
+    width: 23px;
+    height: 26px;
+    margin-right: 0px;
+    color: green;
+
+}
+#cpssb{
+    width: 23px;
+    height: 26px;
+    margin-right: 0px;
+    color: yellow;
+
+}
