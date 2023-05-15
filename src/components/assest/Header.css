@@ -35,6 +35,16 @@
     margin-right: 16px;
     margin-top: 5px;
 } 
+#icc{
+    float: right;
+    font-size: 14px;
+    border: 0.1px #FFFFFF;
+    background: #cecccc;
+    border-radius: 29px;
+    padding: 0px;
+    margin-top: 31px;
+    margin-right: -41px;
+}
 #pic{
     float: right;
     border-radius: 50px;
@@ -52,4 +62,14 @@
     border-top-left-radius: 22px;
     border-bottom-left-radius: 22px;
     border: none;
+}
+#icd{
+    float: right;
+    font-size: 14px;
+    background: #d32323;
+    border-radius: 20px;
+    color: whitesmoke;
+    margin-right: -57px;
+    margin-top: 3px;
+    height: 12px;
 }
