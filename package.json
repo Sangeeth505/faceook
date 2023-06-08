@@ -10,13 +10,9 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
-=======
-    "react-icons": "^4.8.0",
->>>>>>> 6a863fcd5baab4b79d7cd342c469e91342b73de7
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  },l
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
